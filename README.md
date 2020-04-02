@@ -183,3 +183,9 @@ For sending body in a POST call we need a body parser middleware and express pro
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 ```
+
+#### Express Handle Bars
+By definition "A Handlebars view engine for Express which doesn't suck.". Will use this to render the the views. Read the usage instruction https://github.com/ericf/express-handlebars
+```
+npm i express-handlebars
+```
