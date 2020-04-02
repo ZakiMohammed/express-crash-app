@@ -1,0 +1,23 @@
+{
+  "name": "express-app",
+  "version": "1.0.0",
+  "description": "Traversy Media Express Node crash course app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZakiMohammed/express-crash-app.git"
+  },
+  "keywords": [
+    "express",
+    "node"
+  ],
+  "author": "Zaki Mohammed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZakiMohammed/express-crash-app/issues"
+  },
+  "homepage": "https://github.com/ZakiMohammed/express-crash-app#readme"
+}
